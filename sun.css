@@ -1,0 +1,63 @@
+
+
+
+
+img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+   
+    margin-left: 40px;
+    
+}
+#overviw{overflow: hidden;
+position: relative;
+     width: 220px;
+height: 255px;
+}
+
+.bi1{
+background-color: whitesmoke;
+color: rgb(214, 142, 142);
+border: 7px solid rgb(78, 92, 139);
+width: 200px;
+height: 200px;
+padding: 5%;
+  flex-shrink: 0;
+
+
+
+}
+#over{
+     
+   
+display: flex;
+gap: 10px;
+ transition: transform 0.4s ease;
+
+}
+.si{
+    font-size: 100px;
+    margin: 0px;
+    color: blue;
+
+}
+#continers{  margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;}
+    #but{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ margin-top:250px;
+ float: inline-end;
+gap: 10px;
+
+    }
+    .abut{
+height: 20px;
+border-radius: 50%;
+
+    }
